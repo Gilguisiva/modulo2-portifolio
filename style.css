@@ -17,10 +17,14 @@
 input{
     width: 340px;
     height: 56px;
+    
     background-color: #F4F4F4;
     border: 0;
     padding: 0 12px;
     margin-bottom: 1rem;}
+    .checkbox{justify-content: space-around;
+
+    }
 
 button{
     background-color: #2A88C8;
@@ -33,12 +37,11 @@ button{
 }
 .imagem{
     width:5px;
-    height:5px;
-    
-
-
+    height:5px;}
+.checkbox{justify-content: space-around;
 
 }
+
 
 
 
