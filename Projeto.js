@@ -1,12 +1,10 @@
 // Tabuada
-console.log("Tabuada do Numero 2");
-'use strict';
-let numero = 1;
-while( numero <= 10)
-{
-    for ( let x = 1; x <= 10; x++ )
-    {
-        console.log (numero +'x'+ x +'=' + numero*x );
-    }
-numero++;
+console .log ( "Tabuada número 2");
+var n = 2
+var i = 0;
+while (i<=10){
+console.log(n +" x " + i + " = " + (n * i));
+i = i + 1 ;
 }
+
+
