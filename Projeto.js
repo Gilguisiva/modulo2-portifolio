@@ -1,5 +1,5 @@
 // Tabuada
-console .log ( "Tabuada número 2");
+console .log ( "Tabuada do Numero 2");
 var n = 2
 var i = 0;
 while (i<=10){
