@@ -1,7 +1,8 @@
 import{soma,subtracao,divisao,multiplicacao} from '../math';
 
 
-describe('Testando operacoes matematicas', () =>{
+describe('Testando operacoes matematicas', () =>
+{
     it('Testando a soma de dois numeros', () => {
         const esperado = 25
         const retorno = soma (15,10)
